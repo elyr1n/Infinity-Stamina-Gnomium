@@ -87,11 +87,3 @@ This project was created for educational purposes to learn about Windows process
 ### Примечание
 
 Проект создан в образовательных целях для изучения работы с памятью процессов Windows.
-
----
-
-## Building from Source
-
-```bash
-# Compile with any C++ compiler (MSVC, MinGW, etc.)
-g++ main.cpp -o InfinityStamina.exe
